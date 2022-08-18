@@ -2,6 +2,12 @@
 
 ## [NEXT VERSION] - YYYY-MM-DD
 
+## [2.15] - 2022-08-18
+
+### Changed
+
+- Add Jira 9 support for `New-JiraIssue`
+
 ## [2.14] - 2020-03-28
 
 ### Changed
